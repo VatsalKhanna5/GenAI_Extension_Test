@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "GenAI Query Answering",
+    "version": "1.0",
+    "description": "An AI-powered query answering tool using Streamlit and GPT.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": []
+  }
+  
